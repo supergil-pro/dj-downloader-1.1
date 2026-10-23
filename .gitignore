@@ -1,0 +1,6 @@
+# Downloaded music and local files
+DJ_Downloads/
+DJ_Downloads.zip
+__pycache__/
+build/
+*.spec
